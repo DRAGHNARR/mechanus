@@ -1,6 +1,6 @@
 .mech {
-  display: flex;
-  flex-direction: column;
+  /* display: flex;
+  flex-direction: column; */
   box-sizing: border-box;
   margin: 40px 0 0;
 }
