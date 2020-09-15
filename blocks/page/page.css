@@ -1,0 +1,12 @@
+.page {
+  font-family: Inter, Arial, Helvetica, sans-serif;
+  margin: 0;
+  background-color: #36393f;
+  color: #fff;
+}
+
+:root {
+  --menu-width: 200px;
+  --item-width: 250px;
+  --magrin-delta: 5px;
+}

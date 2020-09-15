@@ -1,0 +1,7 @@
+.menu {
+  position: fixed;
+  box-sizing: border-box;
+  width: var(--menu-width);
+  height: 100vh;
+  background-color: #202225;
+}

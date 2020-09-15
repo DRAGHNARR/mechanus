@@ -1,0 +1,6 @@
+.main {
+  box-sizing: border-box;
+  width: calc(100% - (var(--menu-width) + var(--magrin-delta)));
+  margin: 0 0 0 calc(var(--menu-width) + var(--magrin-delta));
+  min-height: 600px;
+}

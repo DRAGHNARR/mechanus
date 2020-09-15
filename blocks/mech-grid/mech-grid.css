@@ -1,0 +1,10 @@
+.mech-grid {
+  box-sizing: border-box;
+  margin: var(--magrin-delta) var(--magrin-delta) 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, calc(var(--item-width) + var(--magrin-delta)));
+  grid-template-rows: repeat(auto-fit, calc(var(--item-width) + var(--magrin-delta)));
+  justify-items: center;
+  align-items: center;
+  padding: 0 0 var(--magrin-delta);
+}

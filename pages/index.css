@@ -1,0 +1,20 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/inter.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/menu/menu.css);
+@import url(../blocks/menu/__list/menu__list.css);
+@import url(../blocks/menu/__item/menu__item.css);
+@import url(../blocks/menu/__item/_active/menu__item_active.css);
+
+@import url(../blocks/header/header.css);
+
+@import url(../blocks/main/main.css);
+@import url(../blocks/mech/mech.css);
+@import url(../blocks/mech/__title/mech__title.css);
+@import url(../blocks/mech-grid/mech-grid.css);
+@import url(../blocks/mech-grid/__item/mech-grid__item.css);
+@import url(../blocks/mech-grid/__image/mech-grid__image.css);
+
+@import url(../blocks/footer/footer.css);

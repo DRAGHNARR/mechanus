@@ -1,0 +1,6 @@
+.footer {
+  display: flex;
+  width: calc(100% - (var(--menu-width) + var(--magrin-delta)));
+  margin: var(--magrin-delta) 0 0 calc(var(--menu-width) + var(--magrin-delta));
+  background-color: #202225;
+}

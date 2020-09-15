@@ -1,0 +1,7 @@
+.mech-grid__item {
+  display: flex;
+  width: var(--item-width);
+  height: var(--item-width);
+  margin: var(--magrin-delta) var(--magrin-delta) 0 0;
+  background-color: #202225;
+}
